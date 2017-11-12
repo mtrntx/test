@@ -1,7 +1,7 @@
 {
   "permissions": [
-    { "post": ["read"] },
-    { "comments": ["create","read"] }
+    { "id": 1, "post": ["read"] },
+    { "id": 2, "comments": ["create", "read"] }
   ],
   "posts": [
     { "id": 1, "title": "Post 1" },
